@@ -20,18 +20,18 @@
 
 ---
 
-### 👨💻 About Me
-- 🔭 I’m currently working on **LuckyBoba POS System**
-- 🌱 I’m currently learning **ReactJS/TS**
-- 💬 Ask me about **React, Node.js, and TypeScript, Games**
-- 📫 How to reach me: **avilajohnluigi@gmail.com**
+### About Me
+-  I’m currently working on **LuckyBoba POS System**
+-  I’m currently learning **ReactJS/TS**
+-  Ask me about **React, Node.js, and TypeScript, Games**
+-  How to reach me: **avilajohnluigi@gmail.com**
 
-### 🚀 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript,github,php"/>
 </div>
 
-### 📈 GitHub Stats & Contributions
+### GitHub Stats & Contributions
 
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
