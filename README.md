@@ -14,6 +14,11 @@
   <a href="https://YOUR_PORTFOLIO_URL_HERE">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
+
+  <br/><br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -30,6 +35,15 @@
 </div>
 
 ### 📈 GitHub Stats & Contributions
+<div align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
   <picture>
