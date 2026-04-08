@@ -49,5 +49,5 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 <div align="center">
   <i>"Ayoko na mag code."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-debug&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-debugv1&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
 </div>
