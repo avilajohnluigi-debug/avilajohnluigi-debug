@@ -6,7 +6,7 @@
 # Hi there! 👋 I'm John Luigi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
 </div>
 
 ---
