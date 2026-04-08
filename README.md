@@ -4,7 +4,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
   
   <br/>
   
@@ -20,7 +20,9 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avilajohnluigi-debug&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=avilajohnluigi&theme=radical&margin-w=4" alt="github-profile-trophy" />
+  </a>
 </div>
 
 ---
