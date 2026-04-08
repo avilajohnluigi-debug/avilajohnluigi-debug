@@ -35,11 +35,6 @@
 </div>
 
 ### 📈 GitHub Stats & Contributions
-<div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<br/>
 
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
