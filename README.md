@@ -21,6 +21,8 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### About Me
 - I’m currently working on the **LuckyBoba POS System**
 - I’m currently diving deeper into **ReactJS / TypeScript**
