@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm John Luigi Avila
+# Hi there! I'm John Luigi Avila
 a 4th-year Bachelor of Information Technology student at Quezon City University and an aspiring **Frontend Developer**. I am highly motivated to step into the tech industry. I thrive in collaborative environments and am always eager to learn, adapt, and build impactful digital experiences.
 
 <br/>
@@ -21,19 +21,19 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on the **LuckyBoba POS System**
-- 📚 I’m currently diving deeper into **ReactJS / TypeScript**
-- 💬 Ask me about **React, Node.js, UI/UX, and Games!**
+### About Me
+- I’m currently working on the **LuckyBoba POS System**
+- I’m currently diving deeper into **ReactJS / TypeScript**
+- Ask me about **React, Node.js, UI/UX, and Games!**
 
-### 💻 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript,github,php&theme=dark" alt="Tech Stack Logos" />
 </div>
 
 <br/>
 
-### 📈 GitHub Stats & Contributions
+### GitHub Stats & Contributions
 
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
