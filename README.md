@@ -33,9 +33,26 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 <br/>
 
+### Featured Projects
+
+| 🧋 LuckyBoba POS System | 🛒 E-Commerce App (Example) |
+| :--- | :--- |
+| A comprehensive Point of Sale system tailored for a bubble tea enterprise. Features include real-time inventory management, a highly optimized branch manager dashboard, and granular staff performance metrics. Built with **React, TypeScript, TailwindCSS, and PHP/Laravel**. | A highly responsive and scalable e-commerce frontend mock-up featuring integrated payment gateways and a polished generic admin dashboard. Built with **Next.js, TypeScript, and MongoDB**. |
+| [🔗 View Live Demo](#) \| [💻 Source Code](#) | [🔗 View Live Demo](#) \| [💻 Source Code](#) |
+
+*(Note: Replace the links and E-Commerce example with your actual secondary projects!)*
+
+---
+
 ### GitHub Stats & Contributions
 
 <div align="center">
+  <!-- Top Languages & Stats-->
+  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=9f9f9f&bg_color=252F3F&hide_border=true" alt="John Luigi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi-debug&layout=compact&title_color=FFFFFF&text_color=9f9f9f&bg_color=252F3F&hide_border=true" alt="Top Languages" />
+  
+  <br/><br/>
+  
   <!-- Interactive Pac-Man Contribution Graph -->
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/pacman-contribution-graph-dark.svg">
