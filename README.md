@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm John Luigi Avila
 a 4th-year Bachelor of Information Technology student at Quezon City University and an aspiring **Frontend Developer**. I am highly motivated to step into the tech industry. I thrive in collaborative environments and am always eager to learn, adapt, and build impactful digital experiences.
 
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
   
   <br/>
   
@@ -20,17 +21,19 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 ---
 
-### About Me
--  I’m currently working on **LuckyBoba POS System**
--  I’m currently learning **ReactJS/TS**
--  Ask me about **React, Node.js, and TypeScript, Games**
+### 👨‍💻 About Me
+- 🔭 I’m currently working on the **LuckyBoba POS System**
+- 📚 I’m currently diving deeper into **ReactJS / TypeScript**
+- 💬 Ask me about **React, Node.js, UI/UX, and Games!**
 
-### Tech Stack
+### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript,github,php"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,git,html,css,javascript,github,php&theme=dark" alt="Tech Stack Logos" />
 </div>
 
-### GitHub Stats & Contributions
+<br/>
+
+### 📈 GitHub Stats & Contributions
 
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
@@ -45,5 +48,5 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 <div align="center">
   <i>"Ayoko na mag code."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-v2&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-debug&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
 </div>
