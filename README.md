@@ -14,7 +14,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://luigifolioreact.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
 </div>
