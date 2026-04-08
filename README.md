@@ -19,6 +19,10 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avilajohnluigi-debug&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="Trophy" />
+</div>
+
 ---
 
 ### About Me
