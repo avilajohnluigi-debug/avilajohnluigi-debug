@@ -1,7 +1,14 @@
 # Hi there! 👋 I'm John Luigi Avila
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <picture>
+      <!-- This shows WHITE text when the user is in Dark Mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!">
+      <!-- This shows BLACK text when the user is in Light Mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!">
+      <!-- Fallback -->
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!">
+  </picture>
 </div>
 
 <!-- Social Badges & Contact -->
@@ -46,15 +53,21 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilajohnluigi-debug&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/avilajohnluigi-debug">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilajohnluigi-debug&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br />
 
 <!-- GitHub General Stats & Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi-debug&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+  <a href="https://github.com/avilajohnluigi-debug">
+    <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/avilajohnluigi-debug">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajohnluigi-debug&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+  </a>
 </div>
 
 ---
