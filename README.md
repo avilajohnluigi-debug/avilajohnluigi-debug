@@ -3,7 +3,7 @@
   It uses zero-setup hosted SVGs to create animations automatically.
 -->
 
-# Hi there! 👋 I'm John Luigi
+# Hi there! 👋 I'm John Luigi Avila
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
