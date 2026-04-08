@@ -44,8 +44,6 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   </picture>
 </div>
 
-![Pacman Graph](https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/pacman-contribution-graph.svg)
-
 
 ---
 <div align="center">
