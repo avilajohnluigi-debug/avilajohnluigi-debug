@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm John Luigi Avila
-a 4th-year Bachelor of Information Technology student at Quezon City University and an aspiring Frontend Developer. I am highly motivated to step into the tech industry. I thrive in collaborative environments and am always eager to learn, adapt, and build impactful digital experiences.
+a 4th-year Bachelor of Information Technology student at Quezon City University and an aspiring **Frontend Developer**. I am highly motivated to step into the tech industry. I thrive in collaborative environments and am always eager to learn, adapt, and build impactful digital experiences.
 
 
 <div align="center">
