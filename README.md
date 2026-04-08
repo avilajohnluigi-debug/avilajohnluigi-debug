@@ -34,5 +34,5 @@
 
 ---
 <div align="center">
-  <i>"Writing code that makes a difference."</i>
+  <i>"Ayoko na mag code."</i>
 </div>
