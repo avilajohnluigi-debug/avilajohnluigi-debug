@@ -19,12 +19,6 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=avilajohnluigi&theme=radical&margin-w=4" alt="github-profile-trophy" />
-  </a>
-</div>
-
 ---
 
 ### About Me
