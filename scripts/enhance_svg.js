@@ -91,9 +91,6 @@ async function enhanceSvg(filePath, contributionData) {
     const xIdx = parseInt(x);
     const yIdx = parseInt(y);
     
-    // In GitHub's grid, x is week, y is day (0=Sunday)
-    // The action uses a similar mapping.
-    // Total days index: x * 7 + y
     const dayIdx = xIdx * 7 + yIdx;
     const dayData = contributionData ? contributionData[dayIdx] : null;
     const count = dayData ? dayData.contributionCount : '?';
@@ -109,16 +106,25 @@ async function enhanceSvg(filePath, contributionData) {
     const yPos = parseFloat(yPosMatch[1]);
     const width = parseFloat(widthMatch[1]);
     
-    const animMatch = inner.match(/<animate attributeName="fill"[^>]*values="([^"]*)"[^>]*keyTimes="([^"]*)"[^>]*dur="([^"]*)"/);
-    
+    // MODIFIED: More robust animation matching
+    const animTagMatch = inner.match(/<animate attributeName="fill"[^>]*>/);
     let eatenAnimation = '';
-    if (animMatch) {
-      const values = animMatch[1].split(';');
-      const keyTimes = animMatch[2];
-      const dur = animMatch[3];
-      const initialColor = values[0];
-      const opacityValues = values.map(v => v === initialColor ? "0" : "1").join(';');
-      eatenAnimation = `<animate attributeName="opacity" dur="${dur}" keyTimes="${keyTimes}" values="${opacityValues}" repeatCount="indefinite" />`;
+    
+    if (animTagMatch) {
+      const animTag = animTagMatch[0];
+      const valuesMatch = animTag.match(/values="([^"]*)"/);
+      const keyTimesMatch = animTag.match(/keyTimes="([^"]*)"/);
+      const durMatch = animTag.match(/dur="([^"]*)"/);
+      
+      if (valuesMatch && keyTimesMatch && durMatch) {
+        const values = valuesMatch[1].split(';');
+        const keyTimes = keyTimesMatch[1];
+        const dur = durMatch[1];
+        
+        const initialColor = values[0];
+        const opacityValues = values.map(v => v === initialColor ? "0" : "1").join(';');
+        eatenAnimation = `<animate attributeName="opacity" dur="${dur}" keyTimes="${keyTimes}" values="${opacityValues}" repeatCount="indefinite" />`;
+      }
     }
 
     return `
