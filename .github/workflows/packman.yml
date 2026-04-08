@@ -17,24 +17,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # 1. NEW: Get your code so we can find the /scripts folder
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      # 2. Generate the basic SVG
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # 3. NEW: Run your script to add tooltips and "eaten" messages
-      - name: Enhance SVG with Interactivity
-        run: node scripts/enhance_svg.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-
-      # 4. Push the final interactive SVG to the 'output' branch
+      # Pushes the generated SVG to a branch named 'output'
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
