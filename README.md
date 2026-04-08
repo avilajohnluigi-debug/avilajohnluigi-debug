@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm John Luigi Avila
+a 4th-year Bachelor of Information Technology student at Quezon City University. I am highly motivated to step into the tech industry. I thrive in collaborative environments and am always eager to learn, adapt, and build impactful digital experiences.
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Constantly+Learning+and+Building!" alt="Typing SVG" />
