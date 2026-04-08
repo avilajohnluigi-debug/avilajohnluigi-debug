@@ -14,8 +14,6 @@
   <a href="https://YOUR_PORTFOLIO_URL_HERE">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-v2&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -45,4 +43,6 @@
 ---
 <div align="center">
   <i>"Ayoko na mag code."</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=avilajohnluigi-v2&label=Profile%20Views&color=252F3F&style=for-the-badge" alt="Profile Views" />
 </div>
