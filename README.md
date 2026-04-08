@@ -24,7 +24,6 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 -  I’m currently working on **LuckyBoba POS System**
 -  I’m currently learning **ReactJS/TS**
 -  Ask me about **React, Node.js, and TypeScript, Games**
--  How to reach me: **avilajohnluigi@gmail.com**
 
 ### Tech Stack
 <div align="center">
