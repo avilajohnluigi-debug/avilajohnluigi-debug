@@ -2,8 +2,9 @@ name: generate pacman game
 
 on:
   schedule:
+    # Run automatically every 24 hours at midnight
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering
   push:
     branches:
       - main
@@ -20,10 +21,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # SETTING 1: Increase speed to 3 to make ghosts more reactive
-          speed: 3 
 
-      - name: Push to output branch
+      # Pushes the generated SVG to a branch named 'output'
+      - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
