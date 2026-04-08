@@ -6,7 +6,7 @@
 # Hi there! 👋 I'm John Luigi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Constantly+Learning+and+Building!" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,8 +24,12 @@
 
 ### 📈 GitHub Stats & Contributions
 <div align="center">
-  <!-- Live GitHub Contribution Graph / Green Squares -->
-  <img src="https://ghchart.rshah.org/avilajohnluigi-debug" alt="Contribution Graph" />
+  <!-- Interactive Pac-Man Contribution Graph -->
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/pacman-contribution-graph-light.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/avilajohnluigi-debug/avilajohnluigi-debug/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </div>
 
 <br/>
@@ -36,7 +40,7 @@
 </div>
 
 <div align="center">
-  <!-- Main GitHub Stats Card - Now Using github_dark theme! -->
+  <!-- Main GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=avilajohnluigi-debug&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
